@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.exe
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.deps.json
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.runtimeconfig.json
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.dll
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\bin\Debug\net7.0\ExtensionMethods.pdb
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.AssemblyInfo.cs
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.dll
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\refint\ExtensionMethods.dll
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.pdb
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ExtensionMethods.genruntimeconfig.cache
+C:\codigos\projetos C#\ExtensionMethods\ExtensionMethods\obj\Debug\net7.0\ref\ExtensionMethods.dll
